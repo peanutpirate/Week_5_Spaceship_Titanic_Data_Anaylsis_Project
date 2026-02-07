@@ -40,3 +40,5 @@ based on personal and travel-related features.
 notebooks/   -> Jupyter notebooks
 data/        -> Dataset files
 outputs/     -> Submission files
+
+Kaggle Link: https://www.kaggle.com/competitions/spaceship-titanic
